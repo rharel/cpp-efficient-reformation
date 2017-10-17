@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\include\core\formations\Column.h">
+      <Filter>Formations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\core\formations\Formation.h">
+      <Filter>Formations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\core\formations\Arrow.h">
+      <Filter>Formations</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Formations">
+      <UniqueIdentifier>{5d9c3846-1618-4496-8429-2b4cb81534da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\sources\formations\Column.cpp">
+      <Filter>Formations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\sources\formations\Arrow.cpp">
+      <Filter>Formations</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

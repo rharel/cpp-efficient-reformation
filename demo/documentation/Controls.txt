@@ -1,0 +1,4 @@
+Keyboard controls:
+
+SPACE:		Changes formation.
+ 		
