@@ -1,4 +1,4 @@
 Keyboard controls:
 
-SPACE:		Changes formation.
+C: Changes formation.
  		
